@@ -1,0 +1,81 @@
+.device {
+    width: 800px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    background: #92cae8;
+    border: 3px solid rgba(166, 21, 36, 0.95);
+    border-radius: 2px;
+}
+
+.header {
+    width: 794px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    background: #b5e89d;
+    border: 3px solid rgba(166, 21, 36, 0.95);
+}
+
+.colorBtn {
+    width: 193px;
+    height: 32px;
+
+    border: 3px solid rgba(166, 21, 36, 0.95);
+    font-size: 28px;
+    text-align: center;
+    color: rgba(166, 21, 36, 0.95);
+}
+.colorBtn:hover {
+    font-size: 34px;
+    text-transform: uppercase;
+    width: 203px;
+
+}
+#red{
+    background: #e80d24;
+}
+#yellow{
+    background: rgba(251, 247, 44, 0.98);
+}
+#green{
+    background: rgba(69, 251, 59, 0.98);
+}
+#blue{
+    background: rgba(49, 59, 251, 0.98);
+}
+
+
+.body {
+    width: 794px;
+    height: 354px;
+    display: flex;
+    flex-direction: row;
+    background-color: #e7ecec;
+    border: 3px solid rgba(166, 21, 36, 0.95);
+}
+
+.left {
+    width: 50px;
+    height: 352px;
+    background-color: #f5f3b5;
+    border: 3px solid rgba(166, 21, 36, 0.95);
+}
+.formBtn{
+    width: 44px;
+    height: 49px;
+    border: 3px solid rgba(166, 21, 36, 0.95);
+}
+.formBtn:hover{
+    width: 50px;
+    /*height: 52px;*/
+    border: 5px solid rgba(166, 21, 36, 0.95);
+}
+.myCanvas {
+    width: 734px;
+    height: 352px;
+    margin-left: auto;
+    background-color: rgba(255, 248, 185, 0.79);
+    border: 3px solid rgba(166, 21, 36, 0.95);
+}
+
