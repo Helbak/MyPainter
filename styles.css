@@ -3,7 +3,7 @@
     height: 400px;
     display: flex;
     flex-direction: column;
-    background: #92cae8;
+    background: #3744CE;
     border: 3px solid rgba(166, 21, 36, 0.95);
     border-radius: 2px;
 }
@@ -24,7 +24,7 @@
     border: 3px solid rgba(166, 21, 36, 0.95);
     font-size: 28px;
     text-align: center;
-    color: rgba(166, 21, 36, 0.95);
+    color: rgba(254, 27, 46, 0.95);
 }
 .colorBtn:hover {
     font-size: 34px;
